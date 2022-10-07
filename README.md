@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheMorningCoder
+- 🌱 I’m currently working at a MNC
+- 👀 I’m thinking problems and solving them (obviously)
